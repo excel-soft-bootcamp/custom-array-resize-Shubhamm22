@@ -1,0 +1,13 @@
+D:\visual studio\First\ArrayUltilityProgram\bin\Debug\netcoreapp3.1\ArrayUltilityProgram.exe
+D:\visual studio\First\ArrayUltilityProgram\bin\Debug\netcoreapp3.1\ArrayUltilityProgram.deps.json
+D:\visual studio\First\ArrayUltilityProgram\bin\Debug\netcoreapp3.1\ArrayUltilityProgram.runtimeconfig.json
+D:\visual studio\First\ArrayUltilityProgram\bin\Debug\netcoreapp3.1\ArrayUltilityProgram.runtimeconfig.dev.json
+D:\visual studio\First\ArrayUltilityProgram\bin\Debug\netcoreapp3.1\ArrayUltilityProgram.dll
+D:\visual studio\First\ArrayUltilityProgram\bin\Debug\netcoreapp3.1\ArrayUltilityProgram.pdb
+D:\visual studio\First\ArrayUltilityProgram\obj\Debug\netcoreapp3.1\ArrayUltilityProgram.AssemblyInfoInputs.cache
+D:\visual studio\First\ArrayUltilityProgram\obj\Debug\netcoreapp3.1\ArrayUltilityProgram.AssemblyInfo.cs
+D:\visual studio\First\ArrayUltilityProgram\obj\Debug\netcoreapp3.1\ArrayUltilityProgram.csproj.CoreCompileInputs.cache
+D:\visual studio\First\ArrayUltilityProgram\obj\Debug\netcoreapp3.1\ArrayUltilityProgram.dll
+D:\visual studio\First\ArrayUltilityProgram\obj\Debug\netcoreapp3.1\ArrayUltilityProgram.pdb
+D:\visual studio\First\ArrayUltilityProgram\obj\Debug\netcoreapp3.1\ArrayUltilityProgram.genruntimeconfig.cache
+D:\visual studio\First\ArrayUltilityProgram\obj\Debug\netcoreapp3.1\ArrayUltilityProgram.csproj.AssemblyReference.cache
